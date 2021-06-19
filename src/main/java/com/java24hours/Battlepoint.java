@@ -43,11 +43,13 @@ public class Battlepoint {
     }
 
     private void createTargets() {
-        Point p1 = new Point(5,90);
+        Point p1 = new Point(5,9);
         targets.add(p1);
-        Point p2 = new Point(4,50);
+        Point p2 = new Point(4,5);
         targets.add(p2);
-        Point p3 = new Point(9,20);
+        Point p3 = new Point(9,2);
+        targets.add(p3);
+        Point p3 = new Point(9,2);
         targets.add(p3);
     }
 

@@ -49,8 +49,6 @@ public class Battlepoint {
         targets.add(p2);
         Point p3 = new Point(9,2);
         targets.add(p3);
-        Point p3 = new Point(9,2);
-        targets.add(p3);
     }
 
     private void shoot(int x, int y) {
